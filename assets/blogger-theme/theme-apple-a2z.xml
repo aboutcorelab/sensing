@@ -4520,15 +4520,6 @@ hr{ border:0; border-top:1px solid var(--line); }
 </b:includable>
             </b:widget>
             <b:widget id='AdSense1' locked='false' title='' type='AdSense' visible='false'>
-              <b:widget-settings>
-                <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
-                <b:widget-setting name='style.textcolor'>#ffffff</b:widget-setting>
-                <b:widget-setting name='style.layout'>1x1</b:widget-setting>
-                <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
-                <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
-                <b:widget-setting name='style.linkcolor'>#ffffff</b:widget-setting>
-                <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
-              </b:widget-settings>
               <b:includable id='main'>
   <div class='widget-content'>
     <b:if cond='data:adCode'>
@@ -4546,15 +4537,6 @@ hr{ border:0; border-top:1px solid var(--line); }
         </b:includable>
             </b:widget>
             <b:widget id='AdSense2' locked='false' title='' type='AdSense' visible='false'>
-              <b:widget-settings>
-                <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
-                <b:widget-setting name='style.textcolor'>#ffffff</b:widget-setting>
-                <b:widget-setting name='style.layout'>1x1</b:widget-setting>
-                <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
-                <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
-                <b:widget-setting name='style.linkcolor'>#ffffff</b:widget-setting>
-                <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
-              </b:widget-settings>
               <b:includable id='main'>
   <div class='widget-content'>
     <b:if cond='data:adCode'>
